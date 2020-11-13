@@ -12,6 +12,7 @@ class Child extends Parent {
 	System.out.println("Cute boy");
 	Systemout.println();
 	Systemout.println();
+	System.out.println("Great new feature);
 	
     }
 }
