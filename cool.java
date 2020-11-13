@@ -10,6 +10,10 @@ class Child extends Parent {
 	System.out.println("Gain Knowledge");
 	System.out.println("Gain Pride");
 	System.out.println("Cute boy");
+	Systemout.println();
+	Systemout.println();
+	System.out.println("Great new feature);
+	
     }
 }
 class Cool{
