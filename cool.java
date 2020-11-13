@@ -7,6 +7,8 @@ class Parent {
 class Child extends Parent {    
     public void display() {
         System.out.println("Derived");
+	System.out.println("Gain Knowledge");
+	System.out.println("Gain Pride");
     }
 }
 class Cool{
