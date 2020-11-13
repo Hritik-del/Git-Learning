@@ -11,6 +11,7 @@ class Child extends Parent {
 	System.out.println("Gain Pride");
 	System.out.println("Cute boy");
 	Systemout.println();
+	Systemout.println();
 	
     }
 }
